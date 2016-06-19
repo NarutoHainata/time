@@ -1,0 +1,46 @@
+html,body{
+	background-color:white;
+	margin: 0;
+	width: 100%;
+	height: 100%;
+}
+header{
+	width: 100%;
+	height: 13%;
+	background-color: #F0F0F0;
+}
+.contentClass{
+	width: 100%;
+	height: 74%;
+	background-color: white;
+	
+}
+footer{
+	width: 100%;
+	height: 13%;
+	background-color: #F0F0F0;
+	
+}
+.footClass{
+	width: 100%;
+	height: 40%;
+	text-align: center;
+	
+	background-color: whtie;
+	
+}
+#searchId{
+	position: absolute;
+	top: 25px;
+	right: 120;
+}
+#searchBtnId{
+	position: absolute;
+	top: 25;
+	right: 30;
+}
+.btnId{
+	position: absolute;
+	top: 25;
+	left: 150;
+}

@@ -40,7 +40,5 @@ footer{
 	right: 30;
 }
 .btnId{
-	position: absolute;
-	top: 25;
-	left: 150;
+	margin-left:30;
 }
